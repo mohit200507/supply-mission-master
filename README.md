@@ -1,2 +1,2 @@
 # SupplyMission
-https://mohit200507.github.io/supply-mission/
+https://mohit200507.github.io/supply-mission-master/.
